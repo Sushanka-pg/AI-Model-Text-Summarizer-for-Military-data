@@ -1,0 +1,8 @@
+﻿streamlit
+langchain
+langchain-community
+transformers
+torch
+PyPDF2
+requests
+pypdf
