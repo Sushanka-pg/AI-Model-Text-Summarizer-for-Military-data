@@ -1,4 +1,4 @@
-﻿streamlit
+streamlit
 langchain
 langchain-community
 transformers
